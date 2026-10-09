@@ -1,0 +1,12 @@
+ChromaDB.NET
+Copyright 2025-2026 David Baker
+
+This repository is a fork of Quorka/ChromaDB.NET (https://github.com/Quorka/ChromaDB.NET),
+written by David Baker and licensed under the Apache License, Version 2.0, as stated in its
+README at commit ca50e06b9de3353e5920a33a0da4104ed29d17bc.
+
+Changes made by ChromaDotNet (https://github.com/ChromaDotNet) from October 2026 are
+recorded in the history of this repository.
+
+This software builds on Chroma (https://github.com/chroma-core/chroma), licensed under the
+Apache License, Version 2.0.
