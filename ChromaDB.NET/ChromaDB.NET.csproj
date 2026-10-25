@@ -9,7 +9,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageId>ChromaDB.NET</PackageId>
     <Title>ChromaDB.NET</Title>
-    <Description>C# bindings for ChromaDB, a vector database for AI applications</Description>
+    <Description>C# bindings for ChromaDB, a vector database for AI applications Independent project. Not affiliated with, endorsed by or sponsored by Chroma Inc. CHROMA is a registered trademark of Chroma Inc., used here only to describe compatibility.</Description>
     <Authors>David Baker</Authors>
     <PackageTags>chroma;vector;database;embeddings;bindings;native</PackageTags>
     <RepositoryUrl>https://github.com/Quorka/ChromaDB.NET</RepositoryUrl>
